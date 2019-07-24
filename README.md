@@ -9,6 +9,9 @@
   <a href="https://github.com/bostoniosmeetup">
     <img src="https://user-images.githubusercontent.com/52800968/61815833-174f5000-ae19-11e9-9147-fc2a825cb97f.png" height="50"/>
   </a>
+    <a href="./code-of-conduct.md">
+    <img src="https://user-images.githubusercontent.com/52800968/61817960-bf671800-ae1d-11e9-9a6d-8d8cb22e9d68.png" height="50"/>
+  </a>
 </p>
 
 <br>
