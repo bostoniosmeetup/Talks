@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct
+# Meetup Code of Conduct
 
 ## Our Pledge
 
