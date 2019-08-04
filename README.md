@@ -21,5 +21,5 @@
 
 1. Test Driven Development with iOS and Swift. How it can be done!
    * Presenters @liambutler-lawrence and @graemeharnish
-   * Zoom
-   * Code
+   * [Zoom](https://lnkd.in/ew9tsCh)
+   * [Code](./Code/friends) (Example in AddFriendViewModel and AddFriendViewModelTests) 
