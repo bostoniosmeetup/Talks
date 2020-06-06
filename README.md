@@ -20,11 +20,11 @@
 ### Boston iOS Meetup Talks
 
 1. Test Driven Development with iOS and Swift. How it can be done! (8/24/2019)
-   * Presenters @liambutler-lawrence and @graemeharnish
+   * Presenters [Liam Butler Lawrence](https://www.twitter.com/liam_apps) and Graeme Harnish
    * [Zoom](https://lnkd.in/ew9tsCh)
    * [Code](./Code/friends) (Example in AddFriendViewModel and AddFriendViewModelTests) 
 2. SwiftUI Basics (9/11/2019)
-   * Presenter [@bestgarytever](https://www.twitter.com/bestgaryever)
+   * Presenter [Gary Tokman](https://www.twitter.com/bestgaryever)
    * [Slides](./Slides/SwiftUI-Basics.pdf) from the Meetup 
 3. Snapshot Testing & ARKit 🚀(10/16/2019)
    * Presenter [Liam Butler Lawrence](https://www.twitter.com/liam_apps)
@@ -32,7 +32,7 @@
     * Presenter [Dylan Bruschi](https://github.com/Bruschidy54)
       * Getting Started With ARKit 
 4. Build a Website in Swift & Local Notifications for Fun and Profit! (11/13/2019)
-   * Presenter [@bestgarytever](https://www.twitter.com/bestgaryever)
+   * Presenter [Gary Tokman](https://www.twitter.com/bestgaryever)
       * Learn how you can build a website with Vapor
     * Presenter Chris Ladd
       * Local Notifications
@@ -42,7 +42,7 @@
    * Presenter Mike Neas
      * Functional Paradigm in Swift
 6. AVFoundation Framework and React Native! (01/22/2020)
-   * Presenters @graemeharnish
+   * Presenters Graeme Harnish
      * Build an app with React Native
    * Nathan Beaumont
      * App showcase - AVFoundation
